@@ -20,6 +20,7 @@ int main() {
  
    
     cout << "Dziekuje za wprowadzenie liczb!" << endl;
+    cout << "sigma" << endl;
  
     return 0;
 }

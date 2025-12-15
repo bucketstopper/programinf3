@@ -17,7 +17,7 @@ int main () {
 		cout << "ocena dobra" << endl;
 	}
     else if (punkty <= 99) {
-    	cout << "ocena dobra" << endl;
+    	cout << "ocena bardzo dobra" << endl;
 	}
 	else if (punkty <= 100) {
 		cout << "ocena celujaca" << endl;
