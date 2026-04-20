@@ -10,8 +10,8 @@ int main() {
     int a = 5;          
     int b = 10;
     cout << " Wartosc przed wywolaniem funkcji: " << endl;
-    cout << " a " << a << endl;
-    cout << " b " << b << endl;
+    cout << " a = " << a << endl;
+    cout << " b = " << b << endl;
 
     ZmienWartosc(&a);    
     cout << "Wartosc po wywolaniu funkcji: " << a << endl;
