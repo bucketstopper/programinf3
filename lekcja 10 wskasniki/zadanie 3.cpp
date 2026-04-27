@@ -31,9 +31,8 @@ cout << "Podaj nowe elemnty tablicy:\n";
 for (int i = 0; i < 5; i++) {
 	cout << "Podaj nowa wartosc dla elementow " << i + 1 << ": ";
 	cin >> tablica[i];
-	
+	cout << "Nowa tablica: " << tablica[i] << endl;
 }
-
 
 
 for (int i = 0; i < 5; i++) {
@@ -41,7 +40,7 @@ for (int i = 0; i < 5; i++) {
 }
 
 
-cout << "Nowa \nSuma elementow tablicy: " << suma << endl;	
+cout << "Nowa suma elementow tablicy: " << suma << endl;	
 
 
     return 0;
