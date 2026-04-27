@@ -15,6 +15,7 @@ Jakub Wozniak 2C
 - Instrukcji Switch
   
 # POZDRO 
+#----------------------------------------------------------
 #### programuje sobie  hobbystycznie w domu/ lubie wędkować 
-# rowerowanie to moja pasja
+# ---------------------------------------------------------
 
