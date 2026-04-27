@@ -2,7 +2,7 @@
 # 𝓦𝓮𝓵𝓬𝓸𝓂𝓮
 # programinf3
 Jakub Wozniak 2C 
-# 💻 👨🏻‍💻
+# 💻 👨🏻‍💻 🧠 C++ ✅
 ## Projekt miał na celu nauke c++ 
 
 #### Czego nauczyłem się z pomocą tego projektu:
@@ -23,6 +23,7 @@ Jakub Wozniak 2C
 # ---------------------------------------------------------
 # 🚲
 # ⚠️error⚠️
+
 ```
               .........
                                .'------.' |      
