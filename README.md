@@ -1,4 +1,4 @@
-# ⚠️error⚠️
+
 # 𝓦𝓮𝓵𝓬𝓸𝓂𝓮
 # programinf3
 Jakub Wozniak 2C 
@@ -22,6 +22,7 @@ Jakub Wozniak 2C
 #### programuje sobie  hobbystycznie w domu/ lubie wędkować 
 # ---------------------------------------------------------
 # 🚲
+# ⚠️error⚠️
 ```
               .........
                                .'------.' |      
