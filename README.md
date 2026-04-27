@@ -17,7 +17,10 @@ Jakub Wozniak 2C
 - Pętli while i do-while
 - Instrukcji Switch
 # --------------------------  
-# POZDRO 
+# pozdro
+# 🗿 🗿 🤫🧏‍♂️
+
+
 # ----------------------------------------------------------
 #### programuje sobie  hobbystycznie w domu/ lubie wędkować 
 # ---------------------------------------------------------
