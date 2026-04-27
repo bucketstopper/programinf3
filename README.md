@@ -1,8 +1,8 @@
 # programinf3
 Jakub Wozniak 2C
-# Projekt miał na celu nauke c++ 
+## Projekt miał na celu nauke c++ 
 
-# Czego nauczyłem się z pomocą tego projektu:
+### Czego nauczyłem się z pomocą tego projektu:
 - petli if
 - petli for
 - podstaw c++ (cout,cin,int)
